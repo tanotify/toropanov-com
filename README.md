@@ -19,4 +19,4 @@ I am eager to engage in projects that I can take pride in, collaborate with an e
 Let's work together to create something extraordinary.
 
 
-[![HH.ru](/badges/hh_link.png)](https://hh.ru/resume/9f805d08ff0c1a3eca0039ed1f367a7a624d78)  [![LinkedIn](/badges/linkedin.png)](https://www.linkedin.com/in/toropanov/)  [![Behance](/badges/behance.png)](https://www.behance.net/toropanov)
+[![Email](/badges/email.png)](mailto:toropanov+hire@yandex.com)  [![HH.ru](/badges/hh_link.png)](https://hh.ru/resume/9f805d08ff0c1a3eca0039ed1f367a7a624d78)  [![LinkedIn](/badges/linkedin.png)](https://www.linkedin.com/in/toropanov/)  [![Behance](/badges/behance.png)](https://www.behance.net/toropanov)
