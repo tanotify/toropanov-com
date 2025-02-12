@@ -2,7 +2,7 @@
 
 Since my early education, I've been crafting remarkable, responsive websites for both desktop and mobile platforms.
 
-My expertise spans design and intricate project development, accumulating over 8 years of experience.
+My expertise spans design and intricate project development, accumulating years of experience.
 I actively pursue knowledge by staying current with the latest tools, trends, and workflows.
 #
 
