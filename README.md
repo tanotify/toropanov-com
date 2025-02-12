@@ -14,7 +14,7 @@ I actively pursue knowledge by staying current with the latest tools, trends, an
 * Node JS 
 * TypeScript
 
-You can contact me via email through my website or connect with me on LinkedIn.
+You can contact me via email through this page or connect with me on LinkedIn or HeadHunter.
 I am eager to engage in projects that I can take pride in, collaborate with an exceptional team, and advance my career in development.
 Let's work together to create something extraordinary.
 
